@@ -16,13 +16,12 @@
 Sou uma pessoas que sempre estou me aperfeiçoando o conhecimentos Data Science, Data, Analytics, Estatística, Visualização de Dados, Python e mais.
 
 
-- 🔭 Atualmente, trabalho como freelancer!
-- 🌱 Atualmente estou aprendendo Data Sciense e IA Marketing Digital🤣
-- 👯 Estou procurando colaborar com outros criadores de conteúdo
-- 🥅 Objetivos 2024: contribuir mais para projetos de código aberto e configurar minha empresa
-- ⚡ Curiosidade: adoro desenhar e ensinar as pessoas
-- 💻 Python, Django, Data Science, Machine Learning, Marketing
-- ✨ Learning is continuous and there will always be a next level
+- Python!
+- Pandas
+- Matplotlib
+- Numpy
+- Scipy
+- Scikit learn
 <br/>
 
 ### Languages and Tools:
