@@ -27,8 +27,9 @@ Sou uma pessoas que sempre estou me aperfeiçoando o conhecimentos Data Science,
 ### Languages and Tools:
 <p >
 <img align="left" alt="Python" width="26px" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_128x128.png" />
-  <img align="left" alt="Python" width="90px" src="https://matplotlib.org/_static/logo2_compressed.svg" />
+<img align="left" alt="Python" width="90px" src="https://matplotlib.org/_static/logo2_compressed.svg" />
 <img align="left" alt="Python" width="140px" src="https://miro.medium.com/max/3560/1*FkKNHej6JSMTe5RQ2oVp8A.png" />
+<img align="left" alt="Python" width="90px" src="https://miro.medium.com/max/760/1*00pL0zLnfI7y8d5G1aQrHA.jpeg" />
   
 </p>
 <br>
