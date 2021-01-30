@@ -9,7 +9,7 @@
   <img alt="" src="https://img.shields.io/github/repo-size/ricardolopespires/ricardolopespires" />    
   <img alt="GitHub Closed Pull Requests" src="https://img.shields.io/github/issues-pr-closed/ricardolopespires/ricardolopespires" />
   <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/ricardolopespires/ricardolopespires" />  
-  <img align="right"  width= 250 src="https://github.com/ricardolopespires/ricardolopespires/blob/master/banner-github.png">
+  <img align="right"  width= 250 src="https://github.com/ricardolopespires/Data-Science/blob/main/Data%20science.png">
   
 </p>
 
