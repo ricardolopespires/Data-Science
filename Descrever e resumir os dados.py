@@ -93,4 +93,34 @@ dataset.loc[100:103, 'title'] = dataset.loc[100:103, 'title'].str.lower()
 #print(dataset.loc[dataset.mag >= 7.0, ['alert','mag','magType', 'title','tsunami','type']])
 
 #Operador AND
-print(dataset.loc[(dataset.tsunami == 1) & (dataset.alert == 'red'), ['alert', 'mag', 'magType','tsunami','type']])
+#print(dataset.loc[(dataset.tsunami == 1) & (dataset.alert == 'red'), ['alert', 'mag', 'magType','tsunami','type']])
+
+#print([dataset.mag.idxmin(), dataset.mag.idxmax()],)
+
+#We can use these indices to grab the rows themselves
+print(dataset.loc[[dataset.mag.idxmin(), dataset.mag.idxmax()],['alert','mag','magType','title','tsunami','type']])
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
